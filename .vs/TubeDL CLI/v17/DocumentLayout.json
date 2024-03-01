@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\TubeDL CLI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC78D3CF-662C-4DD2-A5D2-337E4F439754}|TubeDL CLI.csproj|c:\\users\\admin\\source\\repos\\tubedl cli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC78D3CF-662C-4DD2-A5D2-337E4F439754}|TubeDL CLI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C087962F-23A1-4EFC-9B30-BFEF9AA3BD93}|..\\SetupProj\\SetupProj.aiproj|C:\\Users\\Admin\\source\\repos\\SetupProj\\SetupProj.aip||{AE40A4D1-A614-4A08-B9E2-B74E011783ED}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SetupProj.aip",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SetupProj\\SetupProj.aip",
+              "RelativeDocumentMoniker": "..\\SetupProj\\SetupProj.aip",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SetupProj\\SetupProj.aip",
+              "RelativeToolTip": "..\\SetupProj\\SetupProj.aip",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-02-28T14:51:24.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\TubeDL CLI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\TubeDL CLI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T13:22:25.585Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

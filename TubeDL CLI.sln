@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TubeDL CLI", "TubeDL CLI.csproj", "{FC78D3CF-662C-4DD2-A5D2-337E4F439754}"
+EndProject
+Project("{840C416C-B8F3-42BC-B0DD-F6BB14C9F8CB}") = "SetupProj", "..\SetupProj\SetupProj.aiproj", "{C087962F-23A1-4EFC-9B30-BFEF9AA3BD93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		All|Any CPU = All|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC78D3CF-662C-4DD2-A5D2-337E4F439754}.All|Any CPU.ActiveCfg = Release|Any CPU
+		{FC78D3CF-662C-4DD2-A5D2-337E4F439754}.All|Any CPU.Build.0 = Release|Any CPU
+		{FC78D3CF-662C-4DD2-A5D2-337E4F439754}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC78D3CF-662C-4DD2-A5D2-337E4F439754}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC78D3CF-662C-4DD2-A5D2-337E4F439754}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC78D3CF-662C-4DD2-A5D2-337E4F439754}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C087962F-23A1-4EFC-9B30-BFEF9AA3BD93}.All|Any CPU.ActiveCfg = DefaultBuild
+		{C087962F-23A1-4EFC-9B30-BFEF9AA3BD93}.All|Any CPU.Build.0 = DefaultBuild
+		{C087962F-23A1-4EFC-9B30-BFEF9AA3BD93}.Debug|Any CPU.ActiveCfg = DefaultBuild
+		{C087962F-23A1-4EFC-9B30-BFEF9AA3BD93}.Debug|Any CPU.Build.0 = DefaultBuild
+		{C087962F-23A1-4EFC-9B30-BFEF9AA3BD93}.Release|Any CPU.ActiveCfg = DefaultBuild
+		{C087962F-23A1-4EFC-9B30-BFEF9AA3BD93}.Release|Any CPU.Build.0 = DefaultBuild
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D138035-901B-49FC-BF83-CFE52DCFCA7E}
+	EndGlobalSection
+EndGlobal

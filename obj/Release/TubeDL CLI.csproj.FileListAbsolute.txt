@@ -1,0 +1,44 @@
+C:\Users\Admin\source\repos\TubeDL CLI\bin\Release\TubeDL CLI.exe.config
+C:\Users\Admin\source\repos\TubeDL CLI\bin\Release\TubeDL CLI.exe.manifest
+C:\Users\Admin\source\repos\TubeDL CLI\bin\Release\TubeDL CLI.application
+C:\Users\Admin\source\repos\TubeDL CLI\bin\Release\TubeDL CLI.exe
+C:\Users\Admin\source\repos\TubeDL CLI\bin\Release\TubeDL CLI.pdb
+C:\Users\Admin\source\repos\TubeDL CLI\bin\Release\AngleSharp.dll
+C:\Users\Admin\source\repos\TubeDL CLI\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\source\repos\TubeDL CLI\bin\Release\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\TubeDL CLI\bin\Release\NReco.VideoConverter.dll
+C:\Users\Admin\source\repos\TubeDL CLI\bin\Release\System.Buffers.dll
+C:\Users\Admin\source\repos\TubeDL CLI\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\source\repos\TubeDL CLI\bin\Release\System.Memory.dll
+C:\Users\Admin\source\repos\TubeDL CLI\bin\Release\System.Numerics.Vectors.dll
+C:\Users\Admin\source\repos\TubeDL CLI\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\source\repos\TubeDL CLI\bin\Release\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\source\repos\TubeDL CLI\bin\Release\System.Text.Encodings.Web.dll
+C:\Users\Admin\source\repos\TubeDL CLI\bin\Release\System.Text.Json.dll
+C:\Users\Admin\source\repos\TubeDL CLI\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\source\repos\TubeDL CLI\bin\Release\System.ValueTuple.dll
+C:\Users\Admin\source\repos\TubeDL CLI\bin\Release\YoutubeExplode.dll
+C:\Users\Admin\source\repos\TubeDL CLI\bin\Release\AngleSharp.xml
+C:\Users\Admin\source\repos\TubeDL CLI\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\source\repos\TubeDL CLI\bin\Release\Newtonsoft.Json.xml
+C:\Users\Admin\source\repos\TubeDL CLI\bin\Release\NReco.VideoConverter.xml
+C:\Users\Admin\source\repos\TubeDL CLI\bin\Release\System.Buffers.xml
+C:\Users\Admin\source\repos\TubeDL CLI\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Admin\source\repos\TubeDL CLI\bin\Release\System.Memory.xml
+C:\Users\Admin\source\repos\TubeDL CLI\bin\Release\System.Numerics.Vectors.xml
+C:\Users\Admin\source\repos\TubeDL CLI\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\source\repos\TubeDL CLI\bin\Release\System.Text.Encoding.CodePages.xml
+C:\Users\Admin\source\repos\TubeDL CLI\bin\Release\System.Text.Encodings.Web.xml
+C:\Users\Admin\source\repos\TubeDL CLI\bin\Release\System.Text.Json.xml
+C:\Users\Admin\source\repos\TubeDL CLI\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\source\repos\TubeDL CLI\bin\Release\System.ValueTuple.xml
+C:\Users\Admin\source\repos\TubeDL CLI\bin\Release\YoutubeExplode.xml
+C:\Users\Admin\source\repos\TubeDL CLI\obj\Release\TubeDL CLI.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\TubeDL CLI\obj\Release\TubeDL CLI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\TubeDL CLI\obj\Release\TubeDL CLI.exe.config
+C:\Users\Admin\source\repos\TubeDL CLI\obj\Release\TubeDL CLI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\TubeDL CLI\obj\Release\TubeDL CLI.exe.manifest
+C:\Users\Admin\source\repos\TubeDL CLI\obj\Release\TubeDL CLI.application
+C:\Users\Admin\source\repos\TubeDL CLI\obj\Release\TubeDL CLI.csproj.Up2Date
+C:\Users\Admin\source\repos\TubeDL CLI\obj\Release\TubeDL CLI.exe
+C:\Users\Admin\source\repos\TubeDL CLI\obj\Release\TubeDL CLI.pdb
